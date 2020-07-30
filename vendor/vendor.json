@@ -1,0 +1,319 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "J0o1Jzs4WyKeqA/oZB2IB9PVEfk=",
+			"path": "github.com/aws/aws-sdk-go/aws",
+			"revision": "f5a1d903d474ca4be8aed6db6fee49deb0041c3d",
+			"revisionTime": "2020-07-29T18:17:57Z"
+		},
+		{
+			"checksumSHA1": "ex3N80cLtG4/PfXpIMPOGtbYz98=",
+			"path": "github.com/aws/aws-sdk-go/aws/arn",
+			"revision": "f5a1d903d474ca4be8aed6db6fee49deb0041c3d",
+			"revisionTime": "2020-07-29T18:17:57Z"
+		},
+		{
+			"checksumSHA1": "Ksdhg/+t+jSC8qvpsLZFM7As73Y=",
+			"path": "github.com/aws/aws-sdk-go/aws/awserr",
+			"revision": "f5a1d903d474ca4be8aed6db6fee49deb0041c3d",
+			"revisionTime": "2020-07-29T18:17:57Z"
+		},
+		{
+			"checksumSHA1": "REHCskSFLqqHtRW8wkOsMzvOFiM=",
+			"path": "github.com/aws/aws-sdk-go/aws/awsutil",
+			"revision": "f5a1d903d474ca4be8aed6db6fee49deb0041c3d",
+			"revisionTime": "2020-07-29T18:17:57Z"
+		},
+		{
+			"checksumSHA1": "ss9Rg5wjfIqP9xkYuWSNQCyv7oI=",
+			"path": "github.com/aws/aws-sdk-go/aws/client",
+			"revision": "f5a1d903d474ca4be8aed6db6fee49deb0041c3d",
+			"revisionTime": "2020-07-29T18:17:57Z"
+		},
+		{
+			"checksumSHA1": "3w8kEXpxp3dpt6sEZ+DMWMTb2/M=",
+			"path": "github.com/aws/aws-sdk-go/aws/client/metadata",
+			"revision": "f5a1d903d474ca4be8aed6db6fee49deb0041c3d",
+			"revisionTime": "2020-07-29T18:17:57Z"
+		},
+		{
+			"checksumSHA1": "tmd1miWlC1RW4Nhatlh/jthopO8=",
+			"path": "github.com/aws/aws-sdk-go/aws/corehandlers",
+			"revision": "f5a1d903d474ca4be8aed6db6fee49deb0041c3d",
+			"revisionTime": "2020-07-29T18:17:57Z"
+		},
+		{
+			"checksumSHA1": "soE3/6fPCM9sXb7+XY8ladnqfQw=",
+			"path": "github.com/aws/aws-sdk-go/aws/credentials",
+			"revision": "f5a1d903d474ca4be8aed6db6fee49deb0041c3d",
+			"revisionTime": "2020-07-29T18:17:57Z"
+		},
+		{
+			"checksumSHA1": "MwRidvAe5RsGB7ZVX82YffzlC/Y=",
+			"path": "github.com/aws/aws-sdk-go/aws/credentials/ec2rolecreds",
+			"revision": "f5a1d903d474ca4be8aed6db6fee49deb0041c3d",
+			"revisionTime": "2020-07-29T18:17:57Z"
+		},
+		{
+			"checksumSHA1": "6TrQFEQcU/KJYQFPEMeFkvjITb0=",
+			"path": "github.com/aws/aws-sdk-go/aws/credentials/endpointcreds",
+			"revision": "f5a1d903d474ca4be8aed6db6fee49deb0041c3d",
+			"revisionTime": "2020-07-29T18:17:57Z"
+		},
+		{
+			"checksumSHA1": "s4nIp9ZhNryeOshCGRP7RmBy1PY=",
+			"path": "github.com/aws/aws-sdk-go/aws/credentials/processcreds",
+			"revision": "f5a1d903d474ca4be8aed6db6fee49deb0041c3d",
+			"revisionTime": "2020-07-29T18:17:57Z"
+		},
+		{
+			"checksumSHA1": "WrqRY/UE8A998aEA0QyD7lzvi5A=",
+			"path": "github.com/aws/aws-sdk-go/aws/credentials/stscreds",
+			"revision": "f5a1d903d474ca4be8aed6db6fee49deb0041c3d",
+			"revisionTime": "2020-07-29T18:17:57Z"
+		},
+		{
+			"checksumSHA1": "QrFKOXYysGau9HmXCtyQRkXQs1c=",
+			"path": "github.com/aws/aws-sdk-go/aws/csm",
+			"revision": "f5a1d903d474ca4be8aed6db6fee49deb0041c3d",
+			"revisionTime": "2020-07-29T18:17:57Z"
+		},
+		{
+			"checksumSHA1": "7AmyyJXVkMdmy8dphC3Nalx5XkI=",
+			"path": "github.com/aws/aws-sdk-go/aws/defaults",
+			"revision": "f5a1d903d474ca4be8aed6db6fee49deb0041c3d",
+			"revisionTime": "2020-07-29T18:17:57Z"
+		},
+		{
+			"checksumSHA1": "sYSMzOK+KiKkPlk2I5WdwdbeRDE=",
+			"path": "github.com/aws/aws-sdk-go/aws/ec2metadata",
+			"revision": "f5a1d903d474ca4be8aed6db6fee49deb0041c3d",
+			"revisionTime": "2020-07-29T18:17:57Z"
+		},
+		{
+			"checksumSHA1": "UISKCpevVzr0ecfOSD6W98Y6AZk=",
+			"path": "github.com/aws/aws-sdk-go/aws/endpoints",
+			"revision": "f5a1d903d474ca4be8aed6db6fee49deb0041c3d",
+			"revisionTime": "2020-07-29T18:17:57Z"
+		},
+		{
+			"checksumSHA1": "EdqcS7QJToio7vax0DSB0J+O7U0=",
+			"path": "github.com/aws/aws-sdk-go/aws/request",
+			"revision": "f5a1d903d474ca4be8aed6db6fee49deb0041c3d",
+			"revisionTime": "2020-07-29T18:17:57Z"
+		},
+		{
+			"checksumSHA1": "W/qivCmrXQFiNrv8vHjoYcZv3oc=",
+			"path": "github.com/aws/aws-sdk-go/aws/session",
+			"revision": "f5a1d903d474ca4be8aed6db6fee49deb0041c3d",
+			"revisionTime": "2020-07-29T18:17:57Z"
+		},
+		{
+			"checksumSHA1": "pWwe/7YOTChOZSLski3K4R82lBc=",
+			"path": "github.com/aws/aws-sdk-go/aws/signer/v4",
+			"revision": "f5a1d903d474ca4be8aed6db6fee49deb0041c3d",
+			"revisionTime": "2020-07-29T18:17:57Z"
+		},
+		{
+			"checksumSHA1": "6DSYGBEQMHTxaU7JsHYOsMGBqAA=",
+			"path": "github.com/aws/aws-sdk-go/internal/context",
+			"revision": "f5a1d903d474ca4be8aed6db6fee49deb0041c3d",
+			"revisionTime": "2020-07-29T18:17:57Z"
+		},
+		{
+			"checksumSHA1": "PaNzoQE9kto+L5a4cfKVZJzk9iA=",
+			"path": "github.com/aws/aws-sdk-go/internal/ini",
+			"revision": "f5a1d903d474ca4be8aed6db6fee49deb0041c3d",
+			"revisionTime": "2020-07-29T18:17:57Z"
+		},
+		{
+			"checksumSHA1": "QvKGojx+wCHTDfXQ1aoOYzH3Y88=",
+			"path": "github.com/aws/aws-sdk-go/internal/s3err",
+			"revision": "f5a1d903d474ca4be8aed6db6fee49deb0041c3d",
+			"revisionTime": "2020-07-29T18:17:57Z"
+		},
+		{
+			"checksumSHA1": "Vn/RGbtd+7hdotxxzwU3JHQ043E=",
+			"path": "github.com/aws/aws-sdk-go/internal/sdkio",
+			"revision": "f5a1d903d474ca4be8aed6db6fee49deb0041c3d",
+			"revisionTime": "2020-07-29T18:17:57Z"
+		},
+		{
+			"checksumSHA1": "UgyXYX3WH/qoKyCfIK66Q49sCEk=",
+			"path": "github.com/aws/aws-sdk-go/internal/sdkmath",
+			"revision": "f5a1d903d474ca4be8aed6db6fee49deb0041c3d",
+			"revisionTime": "2020-07-29T18:17:57Z"
+		},
+		{
+			"checksumSHA1": "fHoMEe3Sf7oYkPfZ/zfiXIuV3Ts=",
+			"path": "github.com/aws/aws-sdk-go/internal/sdkrand",
+			"revision": "f5a1d903d474ca4be8aed6db6fee49deb0041c3d",
+			"revisionTime": "2020-07-29T18:17:57Z"
+		},
+		{
+			"checksumSHA1": "tQVg7Sz2zv+KkhbiXxPH0mh9spg=",
+			"path": "github.com/aws/aws-sdk-go/internal/sdkuri",
+			"revision": "f5a1d903d474ca4be8aed6db6fee49deb0041c3d",
+			"revisionTime": "2020-07-29T18:17:57Z"
+		},
+		{
+			"checksumSHA1": "sXiZ5x6j2FvlIO57pboVnRTm7QA=",
+			"path": "github.com/aws/aws-sdk-go/internal/shareddefaults",
+			"revision": "f5a1d903d474ca4be8aed6db6fee49deb0041c3d",
+			"revisionTime": "2020-07-29T18:17:57Z"
+		},
+		{
+			"checksumSHA1": "jcTqkIWJsCd5ju9XQ4C+mgtRYMw=",
+			"path": "github.com/aws/aws-sdk-go/internal/strings",
+			"revision": "f5a1d903d474ca4be8aed6db6fee49deb0041c3d",
+			"revisionTime": "2020-07-29T18:17:57Z"
+		},
+		{
+			"checksumSHA1": "8yvr4kcKz0YkAdBiz5CobiIAm3s=",
+			"path": "github.com/aws/aws-sdk-go/internal/sync/singleflight",
+			"revision": "f5a1d903d474ca4be8aed6db6fee49deb0041c3d",
+			"revisionTime": "2020-07-29T18:17:57Z"
+		},
+		{
+			"checksumSHA1": "vSVM2pf07ZEHgMQhbLfRBRoyt2I=",
+			"path": "github.com/aws/aws-sdk-go/private/checksum",
+			"revision": "f5a1d903d474ca4be8aed6db6fee49deb0041c3d",
+			"revisionTime": "2020-07-29T18:17:57Z"
+		},
+		{
+			"checksumSHA1": "oN5Js5kiTcmXMtI+B8FJ9NbEsJM=",
+			"path": "github.com/aws/aws-sdk-go/private/protocol",
+			"revision": "f5a1d903d474ca4be8aed6db6fee49deb0041c3d",
+			"revisionTime": "2020-07-29T18:17:57Z"
+		},
+		{
+			"checksumSHA1": "6uYNPsZ4VeVFsS4ulXW5GmLPW6Q=",
+			"path": "github.com/aws/aws-sdk-go/private/protocol/eventstream",
+			"revision": "f5a1d903d474ca4be8aed6db6fee49deb0041c3d",
+			"revisionTime": "2020-07-29T18:17:57Z"
+		},
+		{
+			"checksumSHA1": "hy6/7D32+/AidkP6D/Quan0N8eA=",
+			"path": "github.com/aws/aws-sdk-go/private/protocol/eventstream/eventstreamapi",
+			"revision": "f5a1d903d474ca4be8aed6db6fee49deb0041c3d",
+			"revisionTime": "2020-07-29T18:17:57Z"
+		},
+		{
+			"checksumSHA1": "JZTLEOwJl0rdJqcifAHDSDkdTNM=",
+			"path": "github.com/aws/aws-sdk-go/private/protocol/json/jsonutil",
+			"revision": "f5a1d903d474ca4be8aed6db6fee49deb0041c3d",
+			"revisionTime": "2020-07-29T18:17:57Z"
+		},
+		{
+			"checksumSHA1": "mlKtH3o4qDIFKeZLLTpNXjOQbjU=",
+			"path": "github.com/aws/aws-sdk-go/private/protocol/query",
+			"revision": "f5a1d903d474ca4be8aed6db6fee49deb0041c3d",
+			"revisionTime": "2020-07-29T18:17:57Z"
+		},
+		{
+			"checksumSHA1": "+O6A945eTP9plLpkEMZB0lwBAcg=",
+			"path": "github.com/aws/aws-sdk-go/private/protocol/query/queryutil",
+			"revision": "f5a1d903d474ca4be8aed6db6fee49deb0041c3d",
+			"revisionTime": "2020-07-29T18:17:57Z"
+		},
+		{
+			"checksumSHA1": "lSjlmI0KXhZc6LfYxF5F1i+1kOs=",
+			"path": "github.com/aws/aws-sdk-go/private/protocol/rest",
+			"revision": "f5a1d903d474ca4be8aed6db6fee49deb0041c3d",
+			"revisionTime": "2020-07-29T18:17:57Z"
+		},
+		{
+			"checksumSHA1": "yIeNjGw6KZVW/If1FWYsEgbe4SQ=",
+			"path": "github.com/aws/aws-sdk-go/private/protocol/restxml",
+			"revision": "f5a1d903d474ca4be8aed6db6fee49deb0041c3d",
+			"revisionTime": "2020-07-29T18:17:57Z"
+		},
+		{
+			"checksumSHA1": "lHa13BVh9RfzrkpyMT9mn61XFmY=",
+			"path": "github.com/aws/aws-sdk-go/private/protocol/xml/xmlutil",
+			"revision": "f5a1d903d474ca4be8aed6db6fee49deb0041c3d",
+			"revisionTime": "2020-07-29T18:17:57Z"
+		},
+		{
+			"checksumSHA1": "/jW5jG0I2vV5Y664eh9dfnOrH1I=",
+			"path": "github.com/aws/aws-sdk-go/service/s3",
+			"revision": "f5a1d903d474ca4be8aed6db6fee49deb0041c3d",
+			"revisionTime": "2020-07-29T18:17:57Z"
+		},
+		{
+			"checksumSHA1": "ew95UJZGYIhVmDIQC/o3RuJw1MQ=",
+			"path": "github.com/aws/aws-sdk-go/service/s3/internal/arn",
+			"revision": "f5a1d903d474ca4be8aed6db6fee49deb0041c3d",
+			"revisionTime": "2020-07-29T18:17:57Z"
+		},
+		{
+			"checksumSHA1": "y1vWeECdMOsIWhHKrK2Y6QkTCsE=",
+			"path": "github.com/aws/aws-sdk-go/service/s3/s3iface",
+			"revision": "f5a1d903d474ca4be8aed6db6fee49deb0041c3d",
+			"revisionTime": "2020-07-29T18:17:57Z"
+		},
+		{
+			"checksumSHA1": "TTt2GbcLEEZeiNa3XITK1BcoxWs=",
+			"path": "github.com/aws/aws-sdk-go/service/s3/s3manager",
+			"revision": "f5a1d903d474ca4be8aed6db6fee49deb0041c3d",
+			"revisionTime": "2020-07-29T18:17:57Z"
+		},
+		{
+			"checksumSHA1": "4uqmgERIROjftkt5vwXXmZb+QTY=",
+			"path": "github.com/aws/aws-sdk-go/service/sts",
+			"revision": "f5a1d903d474ca4be8aed6db6fee49deb0041c3d",
+			"revisionTime": "2020-07-29T18:17:57Z"
+		},
+		{
+			"checksumSHA1": "3PGZCtYT5P76EYWq5WDrF2L+7Vw=",
+			"path": "github.com/aws/aws-sdk-go/service/sts/stsiface",
+			"revision": "f5a1d903d474ca4be8aed6db6fee49deb0041c3d",
+			"revisionTime": "2020-07-29T18:17:57Z"
+		},
+		{
+			"checksumSHA1": "w80pSHuNAfMzGjyUMGdCmEINCFQ=",
+			"path": "github.com/gorilla/websocket",
+			"revision": "b65e62901fc1c0d968042419e74789f6af455eb9",
+			"revisionTime": "2020-03-19T17:50:51Z"
+		},
+		{
+			"checksumSHA1": "4wbQdGoxFhVGR2/RE9rSXeMLEhk=",
+			"path": "github.com/jmespath/go-jmespath",
+			"revision": "2437e8417af5203cd4f1f97f99fc289bdeea1360",
+			"revisionTime": "2020-03-10T19:37:58Z"
+		},
+		{
+			"checksumSHA1": "Qo2E/26skb9mZQ3b2Mh6QDkpBLs=",
+			"path": "github.com/pkg/errors",
+			"revision": "614d223910a179a466c1767a985424175c39b465",
+			"revisionTime": "2020-01-14T19:47:44Z"
+		},
+		{
+			"checksumSHA1": "MvrSiA8qEUSDHTW1mkvK5s2xaYY=",
+			"path": "github.com/slack-go/slack",
+			"revision": "40bcd2633a341424926bdbbb35fd969e3c85cc83",
+			"revisionTime": "2020-07-13T04:16:16Z"
+		},
+		{
+			"checksumSHA1": "o25/JVsrW2vnhX8KJ1drNVXr4oA=",
+			"path": "github.com/slack-go/slack/internal/errorsx",
+			"revision": "40bcd2633a341424926bdbbb35fd969e3c85cc83",
+			"revisionTime": "2020-07-13T04:16:16Z"
+		},
+		{
+			"checksumSHA1": "MOcArlm+qJ+gx/PS9OklIMQ1ntQ=",
+			"path": "github.com/slack-go/slack/internal/timex",
+			"revision": "40bcd2633a341424926bdbbb35fd969e3c85cc83",
+			"revisionTime": "2020-07-13T04:16:16Z"
+		},
+		{
+			"checksumSHA1": "5r+6OhZfdrJw+Z69iKWtHXWL3Xo=",
+			"path": "github.com/slack-go/slack/slackutilsx",
+			"revision": "40bcd2633a341424926bdbbb35fd969e3c85cc83",
+			"revisionTime": "2020-07-13T04:16:16Z"
+		}
+	],
+	"rootPath": "todo4slack"
+}
